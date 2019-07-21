@@ -1,0 +1,6 @@
+robotstxt:
+	User-agent: Googlebot-Image
+	Disallow: / 
+	
+	User-agent: Googlebot
+	Disallow: /
